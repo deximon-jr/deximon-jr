@@ -1,23 +1,54 @@
 -----  
 
-**🌟 Aspiring Bug Hunter 🌟**  
+# Hi, I'm Saber (DEXIMON) 👋
 
-**👤 About Me:**
-I'm Saber Bahgat, a cybersecurity enthusiast focusing on Bug Bounty Hunting and Web Security. I sharpen my skills through PortSwigger Academy, TryHackMe, and HackTheBox.
+Cybersecurity Student focused on Web Security & Penetration Testing.
 
-**🔧 Skills:**
-- Bug Hunting: Learning to exploit XSS, SQLi, BAC, and more.
-- Programming: Writing security scripts in Python, with experience in JavaScript, SQL, HTML, and learning PHP. 
-- Web Security: Understanding OWASP Top 10 and real-world attack techniques. 
-- Linux & Networking: Comfortable with command-line, routing, and security protocols.
+---
 
-**🎯 Goals:**  
-- Start reporting real-world bugs on HackerOne.
-- Deepen my expertise in network security & penetration testing.
-- Continuous learning by always striving to expand my knowledge and adopt best practices in the field of cybersecurity.
+## 🚀 About Me
+I'm a high school student building strong foundations in cybersecurity.
 
-**📚 Current Focus:** 
-- Studying SSRF & CSRF. 
-- Enhancing real-world exploitation skills.
+Currently working on:
+- Web Exploitation
+- Privilege Escalation
+- Network Security
+- Automation with Python
+
+I enjoy solving CTF machines and documenting my learning journey.
+
+---
+
+## 🧠 Technical Skills
+- Python
+- Linux
+- Networking Fundamentals
+- Web Security Basics
+- Nmap
+- Burp Suite
+- Bash Scripting
+
+---
+
+## 📂 Featured Work
+- 🔐 Security Notes  
+- 🧪 CTF Writeups  
+- 🛠 Custom Security Tools  
+
+---
+
+## 🎯 Current Focus
+- Practicing real-world penetration testing scenarios  
+- Improving web vulnerability detection  
+- Building automation & recon tools  
+
+---
+
+## 📈 Long-Term Goal
+To become a professional penetration tester and contribute to building secure systems.
+
+---
+
+> DEXIMON – Consistency builds skill.
 
 -----
