@@ -2,53 +2,58 @@
 
 # Hi, I'm Saber (DEXIMON) 👋
 
-Cybersecurity Student focused on Web Security & Penetration Testing.
+High school student building real skills in Cybersecurity.
+
+I focus on Web Security, Network fundamentals, and practical penetration testing.
 
 ---
 
-## 🚀 About Me
-I'm a high school student building strong foundations in cybersecurity.
+## What I’m Learning & Practicing
 
-Currently working on:
-- Web Exploitation
-- Privilege Escalation
-- Network Security
-- Automation with Python
-
-I enjoy solving CTF machines and documenting my learning journey.
+- Web vulnerabilities (XSS, IDOR, BAC, Misconfigurations, ...)
+- Privilege Escalation on Linux
+- Network scanning & enumeration
+- Writing automation tools in Python
+- Real-world Bug Bounty methodology
 
 ---
 
-## 🧠 Technical Skills
+## What I Actually Do
+
+- Solve CTF machines and document the full process
+- Practice manual testing instead of relying only on tools
+- Build small security tools (Recon scripts, scanners, automation)
+- Take structured notes about everything I learn
+
+---
+
+## Technical Stack
+
 - Python
 - Linux
-- Networking Fundamentals
-- Web Security Basics
-- Nmap
+- Networking
+- Security Tools (nmap, Netcat, ...)
 - Burp Suite
-- Bash Scripting
+- Bash
 
 ---
 
-## 📂 Featured Work
-- 🔐 Security Notes  
-- 🧪 CTF Writeups  
-- 🛠 Custom Security Tools  
+## Current Mission
+
+Improve my web exploitation skills  
+Become confident in real-world penetration testing  
+Earn my first valid bug bounty report  
 
 ---
 
-## 🎯 Current Focus
-- Practicing real-world penetration testing scenarios  
-- Improving web vulnerability detection  
-- Building automation & recon tools  
+## Projects
+
+- Security Notes (organized study notes)
+- CTF Writeups (step-by-step practical walkthroughs)
+- Custom Python Security Tools
 
 ---
 
-## 📈 Long-Term Goal
-To become a professional penetration tester and contribute to building secure systems.
-
----
-
-> DEXIMON – Consistency builds skill.
+> Learning by doing. Improving every week.
 
 -----
