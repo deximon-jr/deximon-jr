@@ -30,11 +30,12 @@ I focus on Web Security, Network fundamentals, and practical penetration testing
 ## Technical Stack
 
 - Python
+- Web Languages (JS, HTML)
+- Bash
 - Linux
 - Networking
 - Security Tools (nmap, Netcat, ...)
 - Burp Suite
-- Bash
 
 ---
 
