@@ -51,8 +51,8 @@ Earn my first valid bug bounty report
 
 - Security Notes (organized study notes)
 - CTF Writeups (step-by-step practical walkthroughs)
-- Custom Python Security Tools
-
+- Security Tools
+- Programming Tutorials
 ---
 
 > Learning by doing. Improving every week.
